@@ -1,15 +1,15 @@
 ^ↀᴥↀ^ @jkzwww (junka / 純夏 )
 
-- my hobbies : 
- #include <anime>
- #include <games>
- #include <music>
- #include <sports>
- #include <travel>
+hobbies : 
+-  #include\<anime>
+-  #include\<games>
+-  #include\<music>
+-  #include\<sports>
+-  #include\<travel>
   
-- currently learning : C++ x UE4 ʕ￫ᴥ￩ʔ 
+currently learning : C++ x UE4 ʕ￫ᴥ￩ʔ 
 
-- find me at (∪・ω･) : junka5500s@gmail.com 
+find me at (∪・ω･) : junka5500s@gmail.com 
 
 よろしクマ~！ʕ•ᴥ•ʔ
 
