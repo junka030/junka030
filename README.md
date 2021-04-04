@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @jkzwww (junka / 純夏 ) ^ↀᴥↀ^
-- 👀 I’m interested in anime, games, sports and music~ 
-- 🌱 ʕ￫ᴥ￩ʔ I’m currently learning C++ with ue4 
-- 💞️ I’m looking to collaborate on any fun project~ ˁ˙˟˙ˀ
-- 📫 How to reach me (∪・ω･) junka5500s@gmail.com 
+^ↀᴥↀ^ @jkzwww (junka / 純夏 )
+
+- my hobbies : 
+ #include <anime>
+ #include <games>
+ #include <music>
+ #include <sports>
+ #include <travel>
+  
+- currently learning : C++ x UE4 ʕ￫ᴥ￩ʔ 
+
+- find me at (∪・ω･) : junka5500s@gmail.com 
 
 よろしクマ~！ʕ•ᴥ•ʔ
 
