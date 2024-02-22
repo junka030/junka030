@@ -1,13 +1,13 @@
 @jkzwww (junka / 純夏 )
 
 hobbies : 
--  #include\<anime>
 -  #include\<games>
 -  #include\<music>
 -  #include\<sports>
 -  #include\<travel>
+-  #include\<anime>
   
-currently learning : C++ x UE4 
+currently learning : SQL, JavaScript
 
 find me at : junka5500s@gmail.com 
 
