@@ -5,9 +5,9 @@
 - #include\<travel>
 - #include\<desserts>
 
-&mail = "junka5500s@gmail.com"
+&mail = junka5500s@gmail.com
 
-cout << "よろしくお願いします！";
+std::cout << "よろしくお願いします！" << std::endl;
 
 <!---
 jkzwww/jkzwww is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
