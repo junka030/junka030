@@ -1,9 +1,9 @@
 @jkzwww (junka / 純夏 )
 
-#include\<music>
-#include\<ACG>
-#include\<travel>
-#include\<desserts>
+- #include\<music>
+- #include\<ACG>
+- #include\<travel>
+- #include\<desserts>
 
 &mail = "junka5500s@gmail.com"
 
