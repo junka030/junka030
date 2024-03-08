@@ -1,17 +1,13 @@
 @jkzwww (junka / 純夏 )
 
-hobbies : 
--  #include\<games>
--  #include\<music>
--  #include\<sports>
--  #include\<travel>
--  #include\<anime>
-  
-currently learning : SQL, JavaScript
+#include\<music>
+#include\<ACG>
+#include\<travel>
+#include\<desserts>
 
-find me at : junka5500s@gmail.com 
+&mail = "junka5500s@gmail.com"
 
-よろしくお願いします！
+cout << "よろしくお願いします！";
 
 <!---
 jkzwww/jkzwww is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
