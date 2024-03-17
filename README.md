@@ -1,4 +1,3 @@
-@jkzwww (junka / 純夏 )
 
 - #include\<music>
 - #include\<ACG>
