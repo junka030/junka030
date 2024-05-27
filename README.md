@@ -6,7 +6,7 @@
 
 &mail = junka5500s@gmail.com
 
-std::cout << "よろしくお願いします！" << std::endl;
+std::cout << "よろしクマ～ʕ๑• ﻌ •๑ʔ" << std::endl;
 
 <!---
 jkzwww/jkzwww is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
