@@ -8,7 +8,7 @@
 
 std::cout << "よろしクマ～ʕ๑• ﻌ •๑ʔ" << std::endl;
 
-vector<Skill>skill_tree = {
+vector/<Skill/> my_skill_tree = {
 <img src="https://github.com/junka030/junka030/assets/79078532/92c6f702-4dd2-44ff-a64b-ae060af142b1" alt="cpp_logo" width="25" height="25"/>
 };
 
