@@ -13,7 +13,6 @@ std::vector\<Skill\> skill_tree = {
 <img src="https://github.com/junka030/junka030/assets/79078532/f6222844-e4d9-42a4-9624-320aa41d7f19" alt="sql_logo" width="25" height="25"/>
 };
 
-<br>
 std::cout << "よろしクマ～ʕ๑• ﻌ •๑ʔ" << std::endl;
 
 
