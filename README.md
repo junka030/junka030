@@ -17,12 +17,11 @@ std::vector\<Skill\> skill_tree = {
   <img src="https://github.com/junka030/junka030/assets/79078532/f00b8c8f-e29d-4905-ae21-f2f5b88464bb" alt="js_logo" width="25" height="25"/>
 </a>,&nbsp;&nbsp;
 <a href="https://www.iso.org/standard/63555.html" target="_blank">
-  <img src="https://github.com/junka030/junka030/assets/79078532/f6222844-e4d9-42a4-9624-320aa41d7f19" alt="sql_logo" width="25" height="25"/>
+  <img src="https://github.com/junka030/junka030/assets/79078532/6ddd5238-79e9-4bd0-8709-41a88bf388ab" alt="sql_logo" width="25" height="25"/>
 </a>
 };
 
 std::cout << "よろしクマ～ʕ๑• ﻌ •๑ʔ" << std::endl;
-
 
 <!---
 jkzwww/jkzwww is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
